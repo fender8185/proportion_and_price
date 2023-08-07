@@ -4,7 +4,7 @@ load_data.py
 
 correlation.py
 
-	計算data資料夾內的每一張股票，算出每一個分級不同組合和股價之間的correlation並算出他們的平均值
+  計算data資料夾內的每一張股票，算出每一個分級不同組合和股價之間的correlation並算出他們的平均值
   並將結果存進correlation_results.csv
 
 plot.py
